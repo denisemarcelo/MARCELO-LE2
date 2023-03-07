@@ -2,9 +2,9 @@ C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\Marce
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\bin\Debug\MarceloBlogDB.dll
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\bin\Debug\MarceloBlogDB.pdb
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\MarceloBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\MarceloBlogDB.dll
+C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\MarceloBlogDB.pdb
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\Model.xml
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\refactor.xml
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\postdeploy.sql
 C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\predeploy.sql
-C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\MarceloBlogDB.dll
-C:\Users\Denise Marcelo\Desktop\SECOND YEAR\3RD TERM\IT128L\LE2\MarceloLE2\MarceloBlogDB\obj\Debug\MarceloBlogDB.pdb
